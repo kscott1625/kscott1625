@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kscott1625 !
 - 👀 I’m interested in Yoga, reading, Physical Therapy
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning React/React Native
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
