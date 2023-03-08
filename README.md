@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kscott1625 !
-- 👀 I’m interested in Anything coding related,Yoga, reading, Physical Therapy
+- 👀 I’m interested in anything coding related,Yoga, reading, Physical Therapy
 - 🌱 I’m currently learning anything and everything
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
